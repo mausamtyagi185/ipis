@@ -1,0 +1,20 @@
+# Build output
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Server
+Servers/
+*.log
+
+# OS
+.DS_Store
+
+# Compiled classes
+*.class

@@ -1,0 +1,37 @@
+BODY {
+	BACKGROUND: #f2f6fE;FONT-FAMILY: verdana,arial,sans-serif; font-size: 12px;
+}
+A {
+	TEXT-DECORATION: none
+}
+
+INPUT {
+	FONT-FAMILY: Verdana,Arial,sans-serif
+	COLOR: black;
+}
+SELECT {
+	FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.keyb TD {
+	BORDER-RIGHT: #ffffff 1px outset; BORDER-TOP: #ffffff 1px outset; BACKGROUND: #fff; BORDER-LEFT: #ffffff 1px outset; BORDER-BOTTOM: #ffffff 1px outset; FONT-FAMILY: Verdana,Arial,sans-serif; TEXT-ALIGN: center
+}
+.dbl {
+	FONT-SIZE: 14px; ; font-weight: bold; color: #000000 ;border: 1px solid #7676a9; padding-left:2px;padding-right:2px}
+.smpl {
+	FONT-SIZE: 11px;border: thin solid #cccccc;
+}
+.act {
+	FONT-SIZE: 11px;BORDER: 1px solid #eeeeee;
+}
+
+.keyb 
+ { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; border: thin solid #a5a5a5; margin-left:2%; }
+
+.ipbox {
+	FONT-SIZE: 20px;border: thin solid #E5E5E5;
+}
+
+.conv1 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #333333;background:E1E5E6;}
+
+
+.conv2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;color: #333333;background:E1E5E6;}
